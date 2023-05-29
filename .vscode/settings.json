@@ -1,3 +1,7 @@
 {
-    "php.debug.executablePath": "C:\\tools\\php81"
+    "php.debug.executablePath": "C:\\tools\\php81",
+    "nodeDebugProcessPicker.match": [
+        "**/app.js",
+      ],
+      "nodeDebugProcessPicker.autoAttach": true
 }
